@@ -1,0 +1,1 @@
+// Protect routes with JWT

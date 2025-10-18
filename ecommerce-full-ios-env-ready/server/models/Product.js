@@ -1,0 +1,1 @@
+// Schema with price, stock, image

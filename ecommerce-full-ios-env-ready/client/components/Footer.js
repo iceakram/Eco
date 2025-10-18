@@ -1,0 +1,1 @@
+// Mobile footer with links
